@@ -10,3 +10,6 @@ The **face_recognition** package provides us with cutting-edge face-recognition 
 This project supports face recognition in order to classify unknown images based on known images.
 Furthermore, persons can even be identified on a live-video-stream via OpenCV.
 
+In a broader sense, this can be used in various security or identification systems.
+Known persons can be differentiated from unknown persons, further actions can be based on that.
+
